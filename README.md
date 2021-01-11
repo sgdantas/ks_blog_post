@@ -9,6 +9,8 @@ Kickstarter campaigns can make ideas into reality. We want to explore if we can 
 - Can we classify projects based only on their goals specifications (duration, year, value)?
 - Can we classify projects based only on their titles?
 
+## Motivation
+Why is that important? Imagine you work on Kickstarter and the only required fields a user needs to include in a new project is its name and goal's information. The category field is optional. However, sorting each project by its category is extremely important as people tend to support specific categories according to their personality. The goal is to use this information to categorize projects. 
 
 ## Data Description
 -  323750 rows (one for each project) and 17 columns (information about the project, such as launch date, goal, end date, etc)
