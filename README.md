@@ -20,7 +20,11 @@ The data can be download at https://www.kaggle.com/kemical/kickstarter-projects?
 ## File Description
 All the code can be found at the jupyter notebook `notebook.ipynb`.
 In order to run the code, just install the libraries below.
-The figure in this repo is the same figure that is presented in the blog post. It can be generated using the notebook.
+The figure in this repo are the same figure that are presented in the blog post.
+- ecdf: empirical cumulative distribution function
+- bp_duration: box-plot of the duration of each category
+- bp_year: box-plot of the lauch year of each category
+They can be generated using the notebook.
 
 ## Libraries Used
 - pandas
